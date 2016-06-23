@@ -99,6 +99,15 @@ body.mobile {
     background: rgba(0, 46, 58, 0.56);
 }
 }
+
+#language{
+    width: 2em;
+    position: absolute;
+    top:30px;
+    right: 50px;
+    text-shadow: none;
+
+}
 #vid-overlay {
     position: fixed;
     height: 100%;
