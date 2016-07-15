@@ -116,7 +116,7 @@ body.mobile {
 }
 #vid-overlay {
     position: fixed;
-    top: 30px;
+    top: 50px;
     height: 100%;
     width: 100%;
     background: url(../images/overlay-pattern.png);
@@ -634,8 +634,8 @@ section {
     top: 50%;
     width: 76px;
     height: 76px;
-    margin-left: -40px;
-    margin-top: -40px;
+    margin-left: -38px;
+    margin-top: -38px;
     opacity: 1;
     -webkit-transform: scale(1);
     -moz-transform: scale(1);
@@ -651,8 +651,8 @@ section {
 #send-btn:hover:before {
     width: 76px;
     height: 76px;
-    margin-left: -40px;
-    margin-top: -40px;
+    margin-left: -38px;
+    margin-top: -38px;
     opacity: 1;
     -webkit-transform: scale(1.05);
     -moz-transform: scale(1.05);

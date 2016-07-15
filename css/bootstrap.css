@@ -239,6 +239,7 @@ th {
     page-break-after: avoid;
   }
   .navbar {
+    
     display: none;
   }
   .btn > .caret,
