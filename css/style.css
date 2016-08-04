@@ -1134,3 +1134,7 @@ section {
     -webkit-animation-name: fadeOutUp;
     animation-name: fadeOutUp;
 }
+
+body {
+    padding-top: 50px;
+}
