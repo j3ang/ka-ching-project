@@ -104,6 +104,8 @@ body.mobile {
 }
 #logo{
     width: 60%;
+    margin: 0 auto;
+
 }
 
 #language{
@@ -168,6 +170,7 @@ section {
 }
 #scr-down img {
     width: 32px;
+    margin: 0 auto;
 }
 /*Section 2*/
 #about {
